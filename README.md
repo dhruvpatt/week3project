@@ -13,4 +13,13 @@ so they don't have to manually enter this information each time they use the app
 One API that we found for this project is the Spoonacular API.
 https://spoonacular.com/food-api/docs
 
+### Using the API:
+
+The code to run the API is included in the project, the code itself is as follows:
+
+
+The output of making this request is as follows:
+
+
+
 

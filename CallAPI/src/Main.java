@@ -6,10 +6,9 @@ import java.net.URL;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        String apiKey = "1ca260647fbc4277ad5c97b63bcff8db"; // Replace with your Spoonacular API key
-        String query = "spaghetti"; // Replace with your desired query string
+        String apiKey = "1ca260647fbc4277ad5c97b63bcff8db";
+        String query = "spaghetti";
 
-        // Construct the URL with the query parameter
         String apiUrl = "https://api.spoonacular.com/recipes/complexSearch";
         String urlWithParameters = apiUrl + "?query=" + query + "&apiKey=" + apiKey;
 
