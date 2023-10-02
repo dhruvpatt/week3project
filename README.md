@@ -16,9 +16,10 @@ https://spoonacular.com/food-api/docs
 ### Using the API:
 
 The code to run the API is included in the project, the code itself is as follows:
-
+![Alt text](code_to_run.png)
 
 The output of making this request is as follows:
+![Alt text](output.png)
 
 
 
