@@ -1,5 +1,5 @@
 # Week 3 Project 
-Group Members: Dhruv Patel, Brad Gardea, Goncalo Mendes, ...
+Group Members: Dhruv Patel, Brad Gardea, Goncalo Mendes
 ### Problem Domain
 The problem domain we have chosen for our project is Recipe Planning. More specifically, Recipe Generation from a list of ingredients.
 
